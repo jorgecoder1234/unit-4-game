@@ -1,0 +1,106 @@
+body{
+background-image:url("../images/cloudy-day.png");
+}
+
+.title1{
+    background-color:#ff4500;
+    width:150px;
+    padding:10px;
+    margin:11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: justify;
+     
+}
+
+#thetitle{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.description{
+
+    background-color:#f4a460;
+    float: left;
+    width: 500px;
+    height: 250px;
+    text-align: justify;
+    margin:11px;
+    color:#7CFC00;
+}
+
+
+#randominitial{
+    background-color:#90EE90;
+   overflow:auto;
+  clear:both;  
+    width:200px;
+    float: left;
+    margin:11px;
+    height:50px;
+    color:#800000;
+}
+
+.winandlosses{
+   overflow:auto; 
+    float: left;
+    margin:11px;
+    height:50px;
+    color:black;
+    background-color: aqua;
+    width: 220px;
+}
+
+#imaged1{
+    clear:both;
+    float:left;
+    height:60px;
+    width:60px;
+    margin:11px;
+}
+
+#imaged2{
+    
+    float:left;
+    height:60px;
+    width:60px;
+    margin:11px;
+}
+
+#imaged3{
+    float:left;
+    height:60px;
+    width:60px;
+    margin:11px;
+}
+
+#imaged4{
+    
+    float:left;
+    height:60px;
+    width:60px;
+    margin:11px;
+}
+
+#score{
+   clear:both;
+   margin: 11px;
+   background-color: #20B2AA;
+   width:160px;
+    color:white;
+}
+#scoreadd{
+    clear:both;
+    margin:11px;
+    background-color:  #20B2AA;
+    width:160px;
+    height: 40px;
+    color:white;
+}
+
+#ran{
+    color:black;
+
+}
+
+
